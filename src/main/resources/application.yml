@@ -1,0 +1,5 @@
+#here is the global configurations that run on any profile
+
+spring:
+  profiles:
+    active: dev
